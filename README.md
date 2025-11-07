@@ -1,4 +1,6 @@
 # profiles-luizaugustocoutinho.md
+<img width="1024" height="1536" alt="logo git hoje" src="https://github.com/user-attachments/assets/57e45844-d7bb-44b3-a86c-bb0d705463f2" />
+
 Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
  QuantumShield: Plataforma Avançada de Segurança Quântica Industrial
 
